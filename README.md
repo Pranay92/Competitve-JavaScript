@@ -3,11 +3,6 @@ List of optimizations necessary for faster execution of JavaScript
 
 Following areas can be improved for better performance:
 
-1. Loops
-2. Array element lookup
-3. Switch Case
-4. Working with large numbers.
-5. Boolean for conditional operations. 
-
-
+1. Speed (loops,array element lookup, switch cases, conditional)
+2. Memory (large numbers, large array)
 
