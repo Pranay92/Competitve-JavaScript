@@ -11,3 +11,10 @@ This includes programs like calculating 25000th prime number, which in JavaScrip
 
 This includes programs like calculating factorial of a large number(say 1000) while in JavaScript if you try to calculate factorial above 170 it gives you infinity because it exceeds language's number limit
 
+### Repo Structure
+
+All the programs are grouped under speed and memory and are placed inside ````src/programs```` directory. Each program is then divided into three implementations:
+
+1. Brute force algorithm and non optimized javascript.
+2. Brute force algorithm and optimized javascript.
+3. Optimized algorithm and optimized javascript.
