@@ -1,6 +1,6 @@
 ## Calculating Factorial
 
-This module covers up calculating factorial of a number. There will be 4 implementations of this:
+This module covers up calculating factorial of a number. There will be 3 implementations of this:
 
 1. Brute Force with Non-Optimized JS
 
