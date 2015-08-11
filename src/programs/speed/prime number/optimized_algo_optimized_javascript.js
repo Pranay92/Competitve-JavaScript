@@ -2,28 +2,24 @@ function Prime(n) {
 
 	var primes = [2,3,5,7],
 		start = 8,
-		index = 5,
-		finalPrime;
+		index = 5;
 
 	while(index < n) {
-		if(isPrime(start,primes)) {
+		if(isPrime(start)) {
 			primes.push(start);
 			index++;
 		}
 		start++;
 	}
 
-
 	return primes[primes.length - 1];
 
 }
 
-function isPrime(num,primes) {
+function isPrime(num) {
 	
 	var index = 2,
-		len = primes.length,
 		isValid = true,
-		currPrime,
 		sqrt = Math.ceil(Math.pow(num,1/2));
 
 	sqrt += 1;

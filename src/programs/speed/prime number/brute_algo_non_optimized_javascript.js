@@ -2,10 +2,12 @@ function Prime(n) {
 
 	var primes = [2,3,5,7],
 		start = 8,
-		index = 5,
-		finalPrime;
+		index = 5;
+	
+	// so that we can use <= 
+	n -= 1;
 
-	while(index < n) {
+	while(index <= n) {
 		if(isPrime(start)) {
 			primes.push(start);
 			index++;
@@ -20,9 +22,10 @@ function Prime(n) {
 function isPrime(num) {
 
 	var index = 2,
-		isValid = true;
+		isValid = true,
+		limit = (num - 1);
 
-	while(index < num) {
+	while(index <= limit) {
 		if(num % index == 0) {
 			isValid = false;
 			break;
