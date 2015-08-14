@@ -1,7 +1,12 @@
 # Competitve-JavaScript
-List of optimizations necessary for faster execution of JavaScript
 
-Following areas can be improved for better performance:
+Competitive Programming is competing with other programmers while solving problems that require algorithm,math and clever language usage.
+
+## Why JavaScript?
+
+JavaScript is one of the most popular programming languages in the world, but still it is one of the most ignored languages when it comes to competitive programming. This is mainly because of the fact that JavaScript lacks in certain areas that makes it unfavourable, though there are ways which can help overcome these limitations.
+
+Areas that can be improved:
 
 ### Speed (loops,array element lookup, switch cases, conditional)
 
@@ -10,6 +15,8 @@ This includes programs like calculating 25000th prime number, which in JavaScrip
 ### Memory (large numbers, large array) 
 
 This includes programs like calculating factorial of a large number(say 1000) while in JavaScript if you try to calculate factorial above 170 it gives you infinity because it exceeds language's number limit
+
+This repository will have examples for the above mentioned areas and implementations through which we can overcome these limitations. 
 
 ### Repo Structure
 
