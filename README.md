@@ -20,7 +20,7 @@ This repository will have examples for the above mentioned areas and implementat
 
 ### Repo Structure
 
-All the programs are grouped under speed and memory and are placed inside ````src/programs```` directory. Each program is then divided into three implementations:
+All the programs are grouped under speed and memory and are placed inside ````src/programs```` directory. Each program has following implementations:
 
 1. Brute force algorithm and non optimized javascript.
 2. Brute force algorithm and optimized javascript.
