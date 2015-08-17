@@ -13,9 +13,9 @@ This succeeds but nothing done for optimizing speed.
 Execution time:
 
 ````
-real	0m0.222s
-user	0m0.226s
-sys	  0m0.004s
+real  0m0.222s
+user  0m0.226s
+sys   0m0.004s
 ````
 
 
