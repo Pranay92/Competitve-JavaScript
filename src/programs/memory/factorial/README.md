@@ -2,11 +2,11 @@
 
 This module covers up calculating factorial of a number, for comparison we'll use 171 for all examples. There will be 3 implementations of this:
 
-1.Brute Force with Non-Optimized JS
+#### 1.Brute Force with Non-Optimized JS
 
 This fails for any number above 170 since its above the JS number limit.
 
-2.Brute Force with Optimized JS
+#### 2.Brute Force with Optimized JS
 
 This succeeds but nothing done for optimizing speed.
 
@@ -19,7 +19,7 @@ sys   0m0.004s
 ````
 
 
-3.Optimized Algorithm with Optimized JS
+#### 3.Optimized Algorithm with Optimized JS
 
 This executes faster and shows correct value as well.
 

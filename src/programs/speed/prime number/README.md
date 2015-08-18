@@ -2,7 +2,7 @@
 
 This module covers calculating nth prime number. For demonstration n will be 25000 for all implementations.
 
-1. Brute Force with Non-Optimized JS
+#### 1. Brute Force with Non-Optimized JS
 
 Takes too much time as compared to languages like c and c++.
 
@@ -15,7 +15,7 @@ sys	    0m0.040s
 ````
 
 
-2. Brute Force with Optimized JS
+#### 2. Brute Force with Optimized JS
 
 Better performance but still slower than c/c++.
 
@@ -28,7 +28,7 @@ sys	    0m0.012s
 ````
 
 
-3. Optimized Algorithm with Optimized JS
+#### 3. Optimized Algorithm with Optimized JS
 
 Almost matches c/c++ execution time.
 
