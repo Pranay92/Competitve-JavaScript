@@ -5,7 +5,7 @@ This module covers common problems that requires faster execution.
 ### General
 
 1. Initialize values whereever and whenever possible.
-2. Avoid using try..catch whenever possible, is still needed wrap the code inside try block into a function and just call the function inside the try block.
+2. Avoid using try..catch whenever possible, if still needed wrap the code inside try block into a function and just call the function inside the try block.
 3. Avoid changing function signature at run time.
 
 ### Arrays
