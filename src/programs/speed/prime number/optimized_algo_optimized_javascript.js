@@ -4,6 +4,8 @@ function Prime(n) {
 		start = 8,
 		index = 5;
 
+	n += 1;
+
 	while(index < n) {
 		if(isPrime(start)) {
 			primes.push(start);
