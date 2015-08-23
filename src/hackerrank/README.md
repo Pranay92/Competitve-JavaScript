@@ -1,0 +1,1 @@
+This directory is to fetch programs and use it on hackerrank directly during my talk. Refer the **programs** folder instead for program implementation and benchmarks.
