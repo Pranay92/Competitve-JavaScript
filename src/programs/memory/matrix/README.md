@@ -1,6 +1,6 @@
 ## Matrix
 
-This module covers storing values in a matrix (or a 2d array). For comparison we'll be creating a 6000 * 6000 matrix. (large enough to cause a memory allocation failed error)
+This module covers storing values in a matrix (or a 2d array). For comparison we'll be creating a 6000 * 6000 matrix which is large enough to cause a memory allocation failed error.
 
 #### 1. Brute Force with Non-Optimized JS
 
