@@ -12,9 +12,14 @@ Areas that can be improved:
 
 This includes programs like calculating 25000th prime number, which in JavaScript is around 10x slower than languages like c,c++ using the same algorithm
 
-### Memory (large numbers, large array) 
+### Memory (large arrays, large no of JSON objects)
+
+This includes programs like storing a 1000 JSON objects which causes memory allocation failure, also note that we don't have database in competitions and everything needs to be done in-memory.
+
+### Language Limitations (large numbers) 
 
 This includes programs like calculating factorial of a large number(say 1000) while in JavaScript if you try to calculate factorial above 170 it gives you infinity because it exceeds language's number limit
+
 
 This repository will have examples for the above mentioned areas and implementations through which we can overcome these limitations. 
 
