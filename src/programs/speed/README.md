@@ -32,3 +32,7 @@ rect.area = 2 * (rect.length + rect.breadth); // this is BAD
 
 2. Use prototypes
 
+## Resources
+
+1. http://jsperf.com/loops
+
