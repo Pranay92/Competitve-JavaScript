@@ -17,7 +17,7 @@ This module covers common problems that requires faster execution.
 
 ### Functions
 
-1. Use monomorphic functions
+ 1) Use monomorphic functions
 
 ````
 function Rectangle(length,breadth) {
@@ -30,7 +30,7 @@ var rect = new Rectangle(10,5);
 rect.area = 2 * (rect.length + rect.breadth); // this is BAD
 ````
 
-2. Use prototypes
+ 2) Use prototypes
 
 ## Resources
 
