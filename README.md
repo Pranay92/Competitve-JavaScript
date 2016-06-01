@@ -1,4 +1,4 @@
-# Competitve-JavaScript
+# Competitve Programming
 
 Competitive Programming is competing with other programmers while solving problems that require algorithm,math and clever language usage.
 
